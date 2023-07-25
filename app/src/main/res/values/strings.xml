@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BooksHome</string>
+    <string name="bestseller">Best seller</string>
+    <string name="ourtopPics">Our Top Picks</string>
+    <string name="cate">Category</string>
+    <string name="recent">Recent</string>
+</resources>
